@@ -1,1 +1,1 @@
-  # Excel-analysis-codebasic-course
+  # Excel-Analysis-Codebasic-AtliQ Hardwares
